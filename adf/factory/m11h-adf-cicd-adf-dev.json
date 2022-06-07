@@ -1,0 +1,9 @@
+{
+	"name": "m11h-adf-cicd-adf-dev",
+	"location": "southcentralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2a6ebb94-a710-4e01-bd9a-747a0e6c4b55",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
